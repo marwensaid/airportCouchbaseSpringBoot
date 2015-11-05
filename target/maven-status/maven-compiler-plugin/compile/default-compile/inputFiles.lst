@@ -1,0 +1,10 @@
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/web/FlightPathController.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/web/UserController.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/util/StartupPreparations.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/service/User.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/service/Airport.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/web/AirportController.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/util/CorsFilter.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/config/Database.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/service/FlightPath.java
+/home/msaidi/IdeaProjects/try-cb-java/src/main/java/trycb/Application.java
